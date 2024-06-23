@@ -30,5 +30,5 @@ the lower value shades with cooler
 * Bash Prompt ~ Planned
 
 ### Palette
-![palette](images/palette.jpg)
-![color wheel](images/color_wheel.jpg)
+![palette](images/palette.png)
+![color wheel](images/color_wheel.png)
