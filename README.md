@@ -29,6 +29,6 @@ the lower value shades with cooler
 * Neovim ~ Planned
 * Bash Prompt ~ Planned
 
-### Palette
+### Palette (rough)
 ![palette](images/palette.png)
 ![color wheel](images/color_wheel.png)
