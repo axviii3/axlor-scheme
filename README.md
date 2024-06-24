@@ -18,8 +18,10 @@ myself to experience what goes into making a colorscheme and maybe create
 something half decent which is personalised to my taste.
 
 ### Possible Improvements
-* The neutral tone scale (grayscale) can benefit with a decrease in 
-saturation
+* The neutral tone scale (kinda like grayscale) can benefit with a decrease
+in saturation
+* The darker colors of the neutral tone scale could look better in a
+purple hue instead of a blue hue
 * The higher value shades of a color can look better with a warmer tone and 
 the lower value shades with cooler
 * Some colors can use a little bit of tweaking especially the warmer colors
