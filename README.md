@@ -18,13 +18,10 @@ myself to experience what goes into making a colorscheme and maybe create
 something half decent which is personalised to my taste.
 
 ### Possible Improvements
-* The neutral tone scale (kinda like grayscale) can benefit with a decrease
-in saturation
-* The darker colors of the neutral tone scale could look better in a
-purple hue instead of a blue hue (overall shift the hues to the colors
-inside the palette)
-* The higher value shades of a color can look better with a warmer tone and 
-the lower value shades with cooler
+* ~~The neutral tone scale (grayscale) can benefit with a decrease in 
+saturation~~
+* ~~The higher value shades of a color can look better with a warmer tone and 
+the lower value shades with cooler~~
 * Some colors can use a little bit of tweaking especially the warmer colors
 * Some shades of a color are maybe too similar?
 
@@ -32,6 +29,6 @@ the lower value shades with cooler
 * Neovim ~ Planned
 * Bash Prompt ~ Planned
 
-### Palette (rough)
+### Palette
 ![palette](images/palette.png)
 ![color wheel](images/color_wheel.png)
